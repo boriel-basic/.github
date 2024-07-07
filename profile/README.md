@@ -37,7 +37,9 @@ For more details, check out our [contribution guidelines](https://github.com/bor
 
 Join our community to stay up-to-date with the latest developments, ask questions, and share your projects:
 
-- [Telegram EN channel](https://t.me/+ag4E7W05dvRkZmZk)): Join our Telegram official channel (approbation required).
+
+- [Telegram [EN] channel](https://t.me/+ag4E7W05dvRkZmZk): Join our Telegram official channel (English - approbation required).
+- [Telegram [ES] channel](https://t.me/+dSbWL8z8ol1lMjA0): Join our Telegram official channel (Spanish - approbation required).
 - [Forum](https://boriel.com/forum): Visit our forum for in-depth discussions and support.
 
 ## License
