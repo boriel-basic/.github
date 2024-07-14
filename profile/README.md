@@ -10,9 +10,10 @@ Boriel BASIC is an advanced BASIC compiler that brings modern features to the cl
 
 Here are some of the key projects within our organization:
 
-- [boriel-zxbasic](https://github.com/boriel-basic/boriel-zxbasic): The main Boriel BASIC compiler for the ZX Spectrum.
-- [boriel-basic-docs](https://github.com/boriel-basic/boriel-basic-docs): Comprehensive documentation for Boriel BASIC, including tutorials and reference materials.
-- [boriel-basic-examples](https://github.com/boriel-basic/boriel-basic-examples): A collection of example projects and code snippets to help you get started with Boriel BASIC.
+- [boriel-basic/zxbasic](https://github.com/boriel-basic/zxbasic): The main Boriel BASIC compiler for the ZX Spectrum.
+- [boriel-basic/docs](https://github.com/boriel-basic/docs): These are the source docs for the [https://zxbasic.net](http://zxbasic.net) documentation site. </br>
+  A web with comprehensive documentation for Boriel BASIC, including tutorials and reference materials.
+- [boriel-basic examples](https://github.com/boriel-basic/zxbasic/tree/main/examples): A collection of example projects and code snippets to help you get started with Boriel BASIC.
 
 ## Getting Started 👩‍💻
 
