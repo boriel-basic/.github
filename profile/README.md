@@ -12,7 +12,7 @@ Here are some of the key projects within our organization:
 
 - [boriel-basic/zxbasic](https://github.com/boriel-basic/zxbasic): The main Boriel BASIC compiler for the ZX Spectrum.
 - [boriel-basic/ZXBasicStudio](https://github.com/boriel-basic/ZXBasicStudio): ZX Basic Studio IDE for Boriel BASIC.
-  A multiplaform (Windows, Linux, Mac) super IDE to develop and debug your Boriel BASIC programs!
+  A multiplaform (Windows, Linux, Mac) super IDE to develop and debug your Boriel BASIC programs! (by [@gusmanb](https://github.com/gusmanb))
 - [boriel-basic/docs](https://github.com/boriel-basic/docs): These are the source docs for the [https://zxbasic.net](http://zxbasic.net) documentation site. </br>
   A web with comprehensive documentation for Boriel BASIC, including tutorials and reference materials.
 - [boriel-basic examples](https://github.com/boriel-basic/zxbasic/tree/main/examples): A collection of example projects and code snippets to help you get started with Boriel BASIC.
