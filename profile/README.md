@@ -41,7 +41,7 @@ Join our community to stay up-to-date with the latest developments, ask question
 
 - [Telegram [EN] channel](https://t.me/+ag4E7W05dvRkZmZk): Join our Telegram official channel (English - approbation required).
 - [Telegram [ES] channel](https://t.me/+dSbWL8z8ol1lMjA0): Join our Telegram official channel (Spanish - approbation required).
-- [Forum](https://forum/boriel.com): Visit our forum for in-depth discussions and support.
+- [Forum](https://forum.boriel.com): Visit our forum for in-depth discussions and support.
 
 ## License
 
