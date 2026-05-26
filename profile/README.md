@@ -20,7 +20,7 @@ Here are some of the key projects within our organization:
 To get started with Boriel BASIC:
 
 1. Visit the [boriel-zxbasic repository](https://github.com/boriel-basic/zxbasic) to download the compiler.
-2. Check out the [documentation](https://github.com/boriel-basic/docs) for installation instructions, tutorials, and reference materials.
+2. Check out the [documentation](https://zxbasic.readthedocs.io/en/docs/) for installation instructions, tutorials, and reference materials.
 3. Explore the [examples](https://github.com/boriel-basic/zxbasic/tree/main/examples) to see Boriel BASIC in action and learn from real-world code.
 
 ## Contributing 🌈
